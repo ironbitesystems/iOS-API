@@ -2,8 +2,8 @@
 //  UsersClient.swift
 //  iOS API
 //
-//  Created by Thomas Eisenbeis on 8/30/18.
-//  Copyright © 2018 CoPilot Creative. All rights reserved.
+//  Created by Thomas Eisenbeis on 5/21/18.
+//  Copyright © 2018 Ironbite Systems. All rights reserved.
 //
 
 import Foundation
